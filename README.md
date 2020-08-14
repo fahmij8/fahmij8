@@ -10,5 +10,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmij8&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 </a>
 <a href="#!">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&layout=compact&theme=tokyonight" height="195px"/>
 </a>

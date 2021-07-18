@@ -43,7 +43,10 @@
 
 <h3>📈 Github Stats</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=fahmij8&show_icons=true&include_all_commits=true&theme=vue-dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&langs_count=8&layout=compact&theme=vue-dark" /></p>
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fahmij8&theme=vue&background=273849&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=DDDDDD">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&langs_count=7&layout=compact&theme=vue-dark" />
+</p>
 
 ------------
 

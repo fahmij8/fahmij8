@@ -47,6 +47,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fahmij8&theme=vue&background=273849&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=DDDDDD">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&langs_count=7&layout=compact&theme=vue-dark" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmij8&layout=compact&theme=vue-dark">
 
 ------------
 

@@ -44,10 +44,10 @@
 <h3>📈 Github Stats</h3>
 
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fahmij8&theme=vue&background=273849&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=DDDDDD">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmij8&langs_count=7&layout=compact&theme=vue-dark" />
+  <img alt="Profile overview" src="https://raw.githubusercontent.com/fahmij8/github-stats-transparent/output/generated/overview.svg">
+  <img alt="Repo languages overall" src="https://raw.githubusercontent.com/fahmij8/github-stats-transparent/output/generated/languages.svg" />
+  <img alt="Weekly stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmij8&layout=compact">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmij8&layout=compact&theme=vue-dark">
 
 ------------
 
@@ -55,6 +55,6 @@
 <p>
   <a href="https://www.linkedin.com/in/fahmijabbar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/13434851/fahmi-jabbar"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://www.instagram.com/fahmij8/"><img alt="Instagram" src="https://img.shields.io/badge/fahmij8-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fahmij8/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 

@@ -42,7 +42,7 @@
 <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://www.credential.net/d70b1b6d-de89-4607-872c-15a137ef3c4f#gs.duan6k" target="_blank"> TensorFlow Developer Certified</a>
 
 <details>
-  <summary>📈 Github Stats</summary>
+  <summary><b>📈 Github Stats</b></summary>
   <p>
     <img alt="Profile overview" src="https://raw.githubusercontent.com/fahmij8/github-stats-transparent/output/generated/overview.svg">
     <img alt="Repo languages overall" src="https://raw.githubusercontent.com/fahmij8/github-stats-transparent/output/generated/languages.svg" />

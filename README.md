@@ -1,5 +1,5 @@
 <h1>Hello 😎</h1>
-<p>Welcome to my GitHub page! </br> I'm Fahmi, Tech enthusiast from <img src="https://image.flaticon.com/icons/png/128/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. I'm a final year undergraduate student for Electrical Engineering Education Major at Universitas Pendidikan Indonesia. I'm passionate to learn Web Development, Machine Learning & Internet of Things (IoT).</p>
+<p>Welcome to my GitHub page! </br> I'm Fahmi, Tech enthusiast from <img src="https://image.flaticon.com/icons/png/128/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. I'm a final year undergraduate student at Universitas Pendidikan Indonesia majoring Electrical Engineering Education and minoring Industrial Electronics. I'm passionate to learn Web Development, Machine Learning & Internet of Things (IoT).</p>
 
 <h3>👨‍💻 Things I code with</h3>
 <p>

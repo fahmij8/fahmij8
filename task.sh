@@ -1,6 +1,5 @@
 #!/bin/bash
 
-rand=$[$RANDOM % ${#arr[@]}]
 d=`date '+%Y-%m-%dT%H:%M:%SZ'`
 
 h=`date +%H`
@@ -14,7 +13,7 @@ fi
 
 echo <<EOT >> README.md
 ### $h 👋 I'm Fahmi Jabbar,
-A Software Engineer from <img src="https://image.flaticon.com/icons/png/128/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. 
+A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. 
 - 👨🏼‍🎓 Currently a final year undergraduate student at Universitas Pendidikan Indonesia
 - 💡 Passionate to learn about Web Development (especially Frontend), Machine Learning, and Data Science
 - ❤ Love to turn UI design to be fully functional websites!

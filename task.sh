@@ -70,4 +70,5 @@ EOT
 
 git config --local user.email "fahmijabbar@upi.edu"
 git config --local user.name "fahmij8"
+git add -A
 git commit -m ":octocat: update at ${d}"

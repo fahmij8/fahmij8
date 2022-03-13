@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Fahmi Jabbar,
-A Software Engineer from <img src="https://image.flaticon.com/icons/png/128/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. 
+###  👋 I'm Fahmi Jabbar,
+A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. 
 - 👨🏼‍🎓 Currently a final year undergraduate student at Universitas Pendidikan Indonesia
 - 💡 Passionate to learn about Web Development (especially Frontend), Machine Learning, and Data Science
 - ❤ Love to turn UI design to be fully functional websites!
@@ -50,5 +50,4 @@ A Software Engineer from <img src="https://image.flaticon.com/icons/png/128/323/
   <a href="https://stackoverflow.com/users/13434851/fahmi-jabbar"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-
-
+Last Updated at 

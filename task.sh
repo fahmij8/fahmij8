@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export TZ=Asia/Jakarta
 d=`date '+%Y-%m-%dT%H:%M:%SZ'`
 
 h=`date +%H`

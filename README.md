@@ -1,4 +1,4 @@
-### Good Afternoon! 👋 I'm Fahmi Jabbar,
+### Good Night! 👋 I'm Fahmi Jabbar,
 A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. 
 - 👨🏼‍🎓 Currently a final year undergraduate student at Universitas Pendidikan Indonesia
 - 💡 Passionate to learn about Web Development (especially Frontend), Machine Learning, and Data Science
@@ -50,4 +50,4 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
   <a href="https://stackoverflow.com/users/13434851/fahmi-jabbar"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-Last Updated at 2022-04-22T14:10:10Z
+Last Updated at 2022-04-22T23:14:58Z
